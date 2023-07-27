@@ -44,3 +44,7 @@
 20:DBE-KT22: A Knowledge Tracing Dataset Based on Online Student Evaluation
 
 21.OKT:Open-Ended Knowledge Tracing
+
+22.Enhancing Deep Knowledge Tracing with Auxiliary Tasks
+
+23.SimpleKT
